@@ -9,4 +9,5 @@
 *Note.md
 *.py
 *Dockerfile
+*.gitignore
 
