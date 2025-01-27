@@ -1,0 +1,12 @@
+*.csv
+*.csv.gz
+*.terraform
+*.ipynb_checkpoints
+*keys
+*.hcl
+*.backup
+*.tfstate
+*Note.md
+*.py
+*Dockerfile
+
