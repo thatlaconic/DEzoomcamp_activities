@@ -20,7 +20,7 @@ services:
       PGADMIN_DEFAULT_EMAIL: "pgadmin@pgadmin.com"
       PGADMIN_DEFAULT_PASSWORD: "pgadmin"
     ports:
-      - "8080:80"
+      - "9000:80"
     networks:
       - ny_taxi-network
     volumes:
