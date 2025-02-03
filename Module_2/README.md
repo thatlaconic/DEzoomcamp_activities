@@ -42,6 +42,3 @@ Complete the Quiz shown below. It’s a set of 6 multiple-choice questions to te
 * Form for submitting: https://courses.datatalks.club/de-zoomcamp-2025/homework/hw2
 * Check the link above to see the due date
 
-## Solution
-
-Will be added after the due date
