@@ -29,6 +29,8 @@ services:
     # To run Kestra in a rootless mode in production, see: https://kestra.io/docs/installation/podman-compose
     user: "root"
     command: server standalone
+    env_file:
+      - .env_encoded
     volumes:
       - kestra-data:/app/storage
       - /var/run/docker.sock:/var/run/docker.sock
@@ -65,7 +67,7 @@ services:
     depends_on:
       postgres:
         condition: service_started
-     
+
   postgres_zoomcamp:
     image: postgres
     environment:
