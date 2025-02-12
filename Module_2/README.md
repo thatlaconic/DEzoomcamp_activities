@@ -18,7 +18,7 @@ Complete the Quiz shown below. It’s a set of 6 multiple-choice questions to te
 - 128.3 MB
 
 2) What is the rendered value of the variable `file` when the inputs `taxi` is set to `green`, `year` is set to `2020`, and `month` is set to `04` during execution?
-- `{{inputs.taxi}}_tripdata_{{inputs.year}}-{{inputs.month}}.csv` 
+- green_tripdata_2020-04.csv
 
 3) How many rows are there for the `Yellow` Taxi data for all CSV files in the year 2020?
 - 24,648,499
@@ -42,6 +42,3 @@ Complete the Quiz shown below. It’s a set of 6 multiple-choice questions to te
 * Form for submitting: https://courses.datatalks.club/de-zoomcamp-2025/homework/hw2
 * Check the link above to see the due date
 
-## Solution
-
-Will be added after the due date
