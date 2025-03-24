@@ -6,3 +6,4 @@ data
 *.sh
 ingest.py
 ingest_file.py
+lib
